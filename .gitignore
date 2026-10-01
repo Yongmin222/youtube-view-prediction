@@ -1,0 +1,13 @@
+# 비밀 정보
+.env
+*.key
+service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
